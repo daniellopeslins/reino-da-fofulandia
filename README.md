@@ -32,5 +32,5 @@ Para rodar o jogo, você precisará de:
 ### Python
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/daniellopeslins/rei-da-fofulandia.git
+   git clone https://github.com/daniellopeslins/reino-da-fofulandia.git
    cd rei-da-fofulandia
