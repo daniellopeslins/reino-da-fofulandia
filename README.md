@@ -33,4 +33,4 @@ Para rodar o jogo, você precisará de:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/daniellopeslins/reino-da-fofulandia.git
-   cd rei-da-fofulandia
+   cd reino-da-fofulandia
