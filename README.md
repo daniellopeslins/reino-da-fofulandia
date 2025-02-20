@@ -34,3 +34,37 @@ Para rodar o jogo, você precisará de:
    ```bash
    git clone https://github.com/daniellopeslins/reino-da-fofulandia.git
    cd reino-da-fofulandia
+   
+2. Execute o arquivo Python:
+   ```bash
+   python reino_da_fofulandia.py
+
+3. Siga as instruções no terminal para jogar!
+
+### Lua
+1. Certifique-se de ter o Lua instalado.
+2. Execute o arquivo Lua:
+   ```bash
+   lua reino_da_fofulandia.lua
+   
+3. Interaja com o jogo no console.
+
+### JavaScript
+1. Certifique-se de ter o Node.js instalado.
+2. Execute o arquivo JavaScript:
+   ```bash
+   node reino_da_fofulandia.js
+
+3. Responda às perguntas no terminal para avançar.
+
+```bash
+=== Exemplo de Jogabilidade ===
+Qual o seu nome? João
+Seja bem-vindo ao Rei da Fofulandia, João!
+
+Há três passagens que lhe levarão a lugares desconhecidos em prol da tentativa de chegar ao castelo.
+1. Virar a esquerda e entrar na caverna do Dr. Sorriso...
+2. Seguir em frente e explorar os terrenos desconhecidos...
+3. Virar a direita e tentar subir a Colina dos Doces Gelados...
+
+Digite a opção que você deseja (1-3): 
